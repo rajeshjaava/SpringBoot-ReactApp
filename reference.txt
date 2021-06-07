@@ -1,0 +1,13 @@
+
+to update npm : npm install -g npm
+to create app : npx create-react-app my-app
+myapp> npm start
+
+npx create-react-app@latest your-project-name --use-npm
+
+make use of axios to execute REST APIs
+npm add axios
+npm add react-router-dom
+npm add formik
+
+https://www.springboottutorial.com/spring-boot-react-full-stack-crud-maven-application
